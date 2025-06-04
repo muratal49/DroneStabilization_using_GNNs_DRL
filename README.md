@@ -38,11 +38,12 @@ All models are implemented using PyTorch and PyTorch Geometric.
 
 ## 📁 Project Structure
 
-.
-├── data/ # Raw and preprocessed CSV files
-├── notebooks/ # Jupyter notebooks for EDA, preprocessing, and modeling
-├── models/ # GNN models and training scripts
-├── utils/ # Helper functions for graph construction and preprocessing
-├── README.md
-└── requirements.txt
+
+├──  data/ # Raw and preprocessed CSV files 
+├──  notebooks/ # Jupyter notebooks for EDA, preprocessing, and modeling 
+├──  models/ # GNN models and training scripts 
+├── utils/ # Helper functions for graph construction and preprocessing 
+├── README.md 
+└── requirements.txt 
+
 
