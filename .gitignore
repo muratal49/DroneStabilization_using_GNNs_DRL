@@ -1,0 +1,59 @@
+# ==========================
+# Drone Stabilization Project
+# ==========================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Environment / OS
+.env
+.venv/
+venv/
+*.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# Logs and outputs
+logs/
+ppo_logs/
+tensorboard/
+*.log
+*.csv
+
+# Model weights and checkpoints
+*.zip
+*.pt
+*.pth
+*.onnx
+models/
+checkpoints/
+
+# Simulation renders / results
+*.gif
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# Temporary or debug data
+tmp/
+temp/
+*.npy
+*.npz
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# System files
+Thumbs.db
+
+# Custom folders for this repo
+data/
+results/
+output/
