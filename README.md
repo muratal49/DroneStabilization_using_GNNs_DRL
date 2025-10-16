@@ -137,7 +137,7 @@ seaborn>=0.12.2
 **Murat Al**  
 M.Sc. Data Science, University of Rochester  
 Ph.D. Computational Mechanics, Lehigh University  
-🔗 [LinkedIn](https://www.linkedin.com/in/muratal49) | [GitHub](https://github.com/muratal49)
+🔗 [LinkedIn](https://www.linkedin.com/in/muratal-ds) | [GitHub](https://github.com/muratal49)
 
 ---
 
