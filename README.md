@@ -127,7 +127,7 @@ seaborn>=0.12.2
 ## 📚 References
 - [Gym-PyBullet-Drones](https://github.com/utiasDSL/gym-pybullet-drones)
 - [Stable-Baselines3 Documentation](https://stable-baselines3.readthedocs.io/)
-- [CMU KiltHub Drone Flight Dataset](https://kilthub.cmu.edu/articles/dataset/)
+- [CMU KiltHub Drone Flight Dataset]([https://kilthub.cmu.edu/articles/dataset](https://kilthub.cmu.edu/articles/dataset/Data_Collected_with_Package_Delivery_Quadcopter_Drone/12683453)/)
 - [Zenodo Flight Logs Dataset](https://zenodo.org/records/13682870)
 
 ---
